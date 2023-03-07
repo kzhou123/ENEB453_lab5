@@ -1,0 +1,48 @@
+  h1 {
+    background-color: rgb(56, 90, 190);
+    /* font-family: "Open sans", Arial, sans-serif; */
+    text-align: center;
+    font-size: 2em;
+    padding: 5px;
+    color:white;
+  }
+  #buttondiv{
+  }
+  #imagediv{
+    margin:1%;
+    margin-left: 1.5%;
+  }
+  #imagediv img{
+    margin-right: 0.25%;
+  }
+  button {
+    position: fixed;
+    left: 25px;
+    background-color:rgb(216, 145, 58);
+    width: 10%;
+    color: white;
+    padding: 15px;
+    margin: 10px 0x;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+  }
+  button:hover{
+    opacity: 0.7;
+  }
+  #fetchbutton{
+    border: none;
+  }
+  #dropdowndiv {
+    display: none;
+    margin-top: 6em;
+    margin-bottom: 1em;
+    padding: 15px;
+    background-color: rgb(166, 191, 228);
+    align-items: normal;
+  }
+  label{
+  font-weight: bold;
+  }
+ 
+
